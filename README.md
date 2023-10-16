@@ -11,13 +11,13 @@ A computer engineering master's student at *Politecnico di Torino* currently stu
 
 2. **CMSmall**
    - Description: Web application developed for the WebApplication I exam at Politecnico di Torino during academic year 2022/2023
-   - Link to Project Folder: [CMSmall_exam](./CMSmall_exam/)
+   - Link to Project Folder: [CMSmall_exam](https://github.com/francdente/CMSmall_exam)
    - Status: Completed
    - Grade: 30L/30
 
 3. **FingerprintSpoofingDetection**
    - Description: Machine learning project developed as a part of the Machine Learning and Pattern Recognition exam at Politecnico di Torino during academic year 2022/2023
-   - Link to Project Folder: [FingerPrintSpoofingDetection](./FingerprintSpoofing_Detection/)
+   - Link to Project Folder: [FingerPrintSpoofingDetection](https://github.com/francdente/FingerPrintSpoofing_Detection)
    - Status: Completed
    - Grade: 10/10
 
