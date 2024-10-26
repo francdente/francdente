@@ -21,6 +21,12 @@ A computer engineering master's student at *Politecnico di Torino* currently stu
    - Status: Completed
    - Grade: 10/10
 
+4. **AlgorithmicMachineLearning challenges**
+   - Description: Machine learning challenges solved for the Algorithmic Machine Learning exam at EURECOM (Biot, France) during academic year 2023/2024 with other 2 students
+   - Challenges: Image Classification, Anomaly Detection, Sentiment Analysis
+   - Link to Project source code: [AML_Challenges](https://github.com/Michele2301/AML_Team42/tree/main) Link to Challenges Reports: [AML Reports](https://github.com/Michele2301/AML_Team42/tree/main/Reports)
+   - Status: Completed
+   - Grade: 19/20
 ## Contact
 
-Feel free to reach out to me if you have any questions or want to collaborate on a project. You can contact me via email at [s313355@studenti.polito.it](mailto:s313355@studenti.polito.it)
+Feel free to reach out to me if you have any questions or want to collaborate on a project. You can contact me via email at [s313355@studenti.polito.it](mailto:s313355@studenti.polito.it) or [dente@eurecom.fr](mailto:dente@eurecom.fr)
