@@ -3,7 +3,7 @@ A computer engineering master's student at *Politecnico di Torino* currently stu
 
 ## University Projects
 
-1. **AlgorithmicMachineLearning challenges**
+1. **AlgorithmicMachineLearning Challenges**
    - Description: Machine learning challenges solved for the Algorithmic Machine Learning exam at EURECOM (Biot, France) during academic year 2023/2024 with other 2 students
    - Challenges: Image Classification, Anomaly Detection, Sentiment Analysis
    - Link to Project source code: [AML_Challenges](https://github.com/Michele2301/AML_Team42/tree/main) Link to Challenges Reports: [AML Reports](https://github.com/Michele2301/AML_Team42/tree/main/Reports)
