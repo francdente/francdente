@@ -46,11 +46,11 @@ focusing on how **Large Language Models (LLMs)** can improve the **software engi
 
 ## 🧩 Projects
 
-### 1. [RustShot](https://github.com/AChiabodo/RustShot)
+1. [RustShot](https://github.com/AChiabodo/RustShot)
 🦀 **Cross-platform Screenshot Grabber (Rust)**  
 A graphical, multi-platform screenshot application developed in **Rust** for the *Programmazione di Sistema* exam at *Politecnico di Torino* (academic year 2022/2023). 
 
-### 2. [Fingerprint Spoofing Detection](https://github.com/francdente/FingerPrintSpoofing_Detection)
+2. [Fingerprint Spoofing Detection](https://github.com/francdente/FingerPrintSpoofing_Detection)
 🧬 **Machine Learning for Biometric Security**  
 A machine learning project created for the *Machine Learning and Pattern Recognition* course at *Politecnico di Torino* (academic year 2022/2023).  
 The project explores various ML techniques to detect **synthetic or spoofed fingerprints**.
