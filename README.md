@@ -48,17 +48,6 @@ Currently, I’m exploring interpretable ways to connect **stakeholder intent** 
 📘 *Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD), 2025*  
 [[Paper]](https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/preprints/2025/ads/preprint_ecml_pkdd_2025_ads_650.pdf) • [[Repo]](https://github.com/francdente/SHM-post_earthquake_monitoring)
 
-```bibtex
-@inproceedings{dente2025preserving,
-  title={Preserving the world heritage: Post-earthquake monitoring based on structural break testing with deep temporal convolutional features},
-  author={Dente, Francesco and Combey, Andy and Lh{\'e}ritier, Alix and Acuna-Agost, Rodrigo and Mercerat, E Diego},
-  booktitle={Joint European Conference on Machine Learning and Knowledge Discovery in Databases},
-  pages={349--365},
-  year={2025},
-  organization={Springer}
-}
-```
-
 ## 🧩 Projects
 
 ### 1. [RustShot](https://github.com/AChiabodo/RustShot)
