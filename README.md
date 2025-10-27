@@ -63,7 +63,8 @@ Currently, I’m exploring interpretable ways to connect **stakeholder intent** 
 
 ### 1. [RustShot](https://github.com/AChiabodo/RustShot)
 🦀 **Cross-platform Screenshot Grabber (Rust)**  
-A graphical, multi-platform screenshot application developed in **Rust** for the *Programmazione di Sistema* exam at *Politecnico di Torino* (academic year 2022/2023).  
+A graphical, multi-platform screenshot application developed in **Rust** for the *Programmazione di Sistema* exam at *Politecnico di Torino* (academic year 2022/2023). 
+
 ---
 
 ### 2. [Fingerprint Spoofing Detection](https://github.com/francdente/FingerPrintSpoofing_Detection)
