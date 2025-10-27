@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Francesco Dente
 
 🎓 **PhD Student in Machine Learning** at [EURECOM](https://www.eurecom.fr/en) / [Sorbonne Université](https://www.sorbonne-universite.fr/),  
-focusing on how **Large Language Models (LLMs)** can improve the **software engineering lifecycle** — from user requirements to development and validation.
+focusing on how **Large Language Models (LLMs)** can improve the **software engineering lifecycle**: from user requirements to development and validation.
 
 ---
 
