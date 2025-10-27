@@ -5,12 +5,6 @@ focusing on how **Large Language Models (LLMs)** can improve the **software engi
 
 ---
 
-## 🧠 About Me
-I'm a researcher passionate about the intersection of **AI, Software Engineering, and Natural Language Understanding**.  
-Currently, I’m exploring interpretable ways to connect **stakeholder intent** and **developer artifacts** using LLM-based representations.
-
----
-
 ## 📰 Latest News
 
 - **📘 Oct 2025 — [Text2Stories](https://arxiv.org/abs/2510.08622)**  
