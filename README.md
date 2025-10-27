@@ -27,7 +27,7 @@ focusing on how **Large Language Models (LLMs)** can improve the **software engi
 
 ## 🎓 Education
 
-- **PhD in Computer Science / AI** — [Sorbonne Université](https://www.sorbonne-universite.fr/) & [EURECOM](https://www.eurecom.fr/en)
+- **Currently PhD in Computer Science / AI** — [Sorbonne Université](https://www.sorbonne-universite.fr/) & [EURECOM](https://www.eurecom.fr/en)
 - **Double Degree Project** — [EURECOM](https://www.eurecom.fr/en) & [Politecnico di Torino](https://www.polito.it/)
 - **MSc in Data Science** — [EURECOM](https://www.eurecom.fr/en)
 - **MSc in Computer Engineering** — [Politecnico di Torino](https://www.polito.it/)
