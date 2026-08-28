@@ -49,6 +49,7 @@ focusing on how **Large Language Models (LLMs)** can improve the **software engi
 
 **Who Should Own the Loop? Harness Decomposition for Small-Model Repository Repair**  
 *Francesco Dente, Dario Satriani, Donatello Santoro, Enzo Veltri, Paolo Papotti*
+
 📘 *AgenticDev Workshop at the IEEE/ACM International Conference on Automated Software Engineering (ASE), 2026 — to appear*
 
 **Constraint Decay: The Fragility of LLM Agents in Backend Code Generation**  
