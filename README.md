@@ -7,14 +7,17 @@ focusing on how **Large Language Models (LLMs)** can improve the **software engi
 
 ## 📰 Latest News
 
+- **🎉 2026 — Do LLMs Understand Backend Data-Layer Semantics? accepted at EMNLP 2026**  
+  *A controlled study of whether LLMs can discover cross-endpoint semantic issues in database-backed code.*
+
+- **🎉 2026 — Who Should Own the Loop? accepted at the AgenticDev workshop (ASE 2026)**  
+  *Harness decomposition for small-model repository repair.*
+
 - **🎉 2026 — [Constraint Decay](https://arxiv.org/abs/2605.06445) accepted at COLM 2026**  
   *On the fragility of LLM agents in backend code generation under multiple architectural constraints.*
 
 - **🎉 2026 — [Inter2US](https://arxiv.org/abs/2510.08622) accepted at RE@Next! (RE 2026)**  
   *Evaluating interpretable alignment between stakeholder interviews and derived user stories.*
-
-- **🏛️ Sept 2025 — [ECML-PKDD 2025 Paper](https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/preprints/2025/ads/preprint_ecml_pkdd_2025_ads_650.pdf)**  
-  *Preserving the world heritage: Post-earthquake monitoring on Cusco’s 17th-century San Cristobal Church.*
 
 ---
 
@@ -39,6 +42,14 @@ focusing on how **Large Language Models (LLMs)** can improve the **software engi
 ---
 
 ## 📄 Publications
+
+**Do LLMs Understand Backend Data-Layer Semantics? A Controlled Study of Cross-Endpoint Issues**  
+*Francesco Dente, Dario Satriani, Donatello Santoro, Enzo Veltri, Paolo Papotti* (\*equal contribution)  
+📘 *Conference on Empirical Methods in Natural Language Processing (EMNLP), 2026 — to appear*
+
+**Who Should Own the Loop? Harness Decomposition for Small-Model Repository Repair**  
+*Francesco Dente, Dario Satriani, Donatello Santoro, Enzo Veltri, Paolo Papotti* (\*equal contribution)  
+📘 *AgenticDev Workshop at the IEEE/ACM International Conference on Automated Software Engineering (ASE), 2026 — to appear*
 
 **Constraint Decay: The Fragility of LLM Agents in Backend Code Generation**  
 *Francesco Dente, Dario Satriani, Paolo Papotti*  
