@@ -80,4 +80,4 @@ A graphical, multi-platform screenshot application developed in **Rust**.
 
 ## Contact
 
-Feel free to reach out to me if you have any questions or want to collaborate on a project. You can contact me via email at [dente@eurecom.fr](mailto:dente@eurecom.fr)
+Feel free to reach out to me if you have any questions or want to collaborate on a project. You can contact me via email at [francesco.dente@eurecom.fr](mailto:francesco.dente@eurecom.fr)
