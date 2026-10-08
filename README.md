@@ -7,10 +7,10 @@ focusing on how **Large Language Models (LLMs)** can improve the **software engi
 
 ## 📰 Latest News
 
-- **🎉 2026 — Do LLMs Understand Backend Data-Layer Semantics? accepted at EMNLP 2026**  
+- **🎉 2026 — [Do LLMs Understand Backend Data-Layer Semantics?](https://github.com/francdente/do-llms-understand-data-layers) accepted at EMNLP 2026**  
   *A controlled study of whether LLMs can discover cross-endpoint semantic issues in database-backed code.*
 
-- **🎉 2026 — Who Should Own the Loop? accepted at the AgenticDev workshop (ASE 2026)**  
+- **🎉 2026 — [Who Should Own the Loop?](https://github.com/dario-tnn/who-should-own-the-loop) accepted at the AgenticDev workshop (ASE 2026)**  
   *Harness decomposition for small-model repository repair.*
 
 - **🎉 2026 — [Constraint Decay](https://arxiv.org/abs/2605.06445) accepted at COLM 2026**  
