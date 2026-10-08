@@ -19,6 +19,9 @@ focusing on how **Large Language Models (LLMs)** can improve the **software engi
 - **🎉 2026 — [Inter2US](https://arxiv.org/abs/2510.08622) accepted at RE@Next! (RE 2026)**  
   *Evaluating interpretable alignment between stakeholder interviews and derived user stories.*
 
+- **🏛️ Sept 2025 — [ECML-PKDD 2025 Paper](https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/preprints/2025/ads/preprint_ecml_pkdd_2025_ads_650.pdf)**  
+  *Preserving the world heritage: Post-earthquake monitoring on Cusco’s 17th-century San Cristobal Church.*
+
 ---
 
 ## 💼 Experience
@@ -44,12 +47,14 @@ focusing on how **Large Language Models (LLMs)** can improve the **software engi
 ## 📄 Publications
 
 **Do LLMs Understand Backend Data-Layer Semantics? A Controlled Study of Cross-Endpoint Issues**  
-*Francesco Dente, Dario Satriani, Donatello Santoro, Enzo Veltri, Paolo Papotti*   
-📘 *Conference on Empirical Methods in Natural Language Processing (EMNLP), 2026 — to appear*
+*Francesco Dente\*, Dario Satriani\*, Donatello Santoro, Enzo Veltri, Paolo Papotti* (\*equal contribution)  
+📘 *Conference on Empirical Methods in Natural Language Processing (EMNLP), 2026 — to appear*  
+[[Repo]](https://github.com/francdente/do-llms-understand-data-layers)
 
 **Who Should Own the Loop? Harness Decomposition for Small-Model Repository Repair**  
-*Francesco Dente, Dario Satriani, Donatello Santoro, Enzo Veltri, Paolo Papotti*   
-📘 *AgenticDev Workshop at the IEEE/ACM International Conference on Automated Software Engineering (ASE), 2026 — to appear*
+*Francesco Dente\*, Dario Satriani\*, Donatello Santoro, Enzo Veltri, Paolo Papotti* (\*equal contribution)  
+📘 *AgenticDev Workshop at the IEEE/ACM International Conference on Automated Software Engineering (ASE), 2026 — to appear*  
+[[Repo]](https://github.com/dario-tnn/who-should-own-the-loop)
 
 **Constraint Decay: The Fragility of LLM Agents in Backend Code Generation**  
 *Francesco Dente, Dario Satriani, Paolo Papotti*  
@@ -80,4 +85,4 @@ A graphical, multi-platform screenshot application developed in **Rust**.
 
 ## Contact
 
-Feel free to reach out to me if you have any questions or want to collaborate on a project. You can contact me via email at [francesco.dente@eurecom.fr](mailto:francesco.dente@eurecom.fr)
+Feel free to reach out to me if you have any questions or want to collaborate on a project. You can contact me via email at [dente@eurecom.fr](mailto:dente@eurecom.fr)
